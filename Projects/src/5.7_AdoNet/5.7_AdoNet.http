@@ -1,0 +1,6 @@
+@_5._7_AdoNet_HostAddress = http://localhost:5022
+
+GET {{_5._7_AdoNet_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

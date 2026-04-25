@@ -1,0 +1,14 @@
+D:\Work\Groups\G_13\Moduls\G13_5_6_Modul\Projects\src\5_2_dars_leetcode\bin\Debug\net8.0\5_2_dars_leetcode.exe
+D:\Work\Groups\G_13\Moduls\G13_5_6_Modul\Projects\src\5_2_dars_leetcode\bin\Debug\net8.0\5_2_dars_leetcode.deps.json
+D:\Work\Groups\G_13\Moduls\G13_5_6_Modul\Projects\src\5_2_dars_leetcode\bin\Debug\net8.0\5_2_dars_leetcode.runtimeconfig.json
+D:\Work\Groups\G_13\Moduls\G13_5_6_Modul\Projects\src\5_2_dars_leetcode\bin\Debug\net8.0\5_2_dars_leetcode.dll
+D:\Work\Groups\G_13\Moduls\G13_5_6_Modul\Projects\src\5_2_dars_leetcode\bin\Debug\net8.0\5_2_dars_leetcode.pdb
+D:\Work\Groups\G_13\Moduls\G13_5_6_Modul\Projects\src\5_2_dars_leetcode\obj\Debug\net8.0\5_2_dars_leetcode.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Groups\G_13\Moduls\G13_5_6_Modul\Projects\src\5_2_dars_leetcode\obj\Debug\net8.0\5_2_dars_leetcode.AssemblyInfoInputs.cache
+D:\Work\Groups\G_13\Moduls\G13_5_6_Modul\Projects\src\5_2_dars_leetcode\obj\Debug\net8.0\5_2_dars_leetcode.AssemblyInfo.cs
+D:\Work\Groups\G_13\Moduls\G13_5_6_Modul\Projects\src\5_2_dars_leetcode\obj\Debug\net8.0\5_2_dars_leetcode.csproj.CoreCompileInputs.cache
+D:\Work\Groups\G_13\Moduls\G13_5_6_Modul\Projects\src\5_2_dars_leetcode\obj\Debug\net8.0\5_2_dars_leetcode.dll
+D:\Work\Groups\G_13\Moduls\G13_5_6_Modul\Projects\src\5_2_dars_leetcode\obj\Debug\net8.0\refint\5_2_dars_leetcode.dll
+D:\Work\Groups\G_13\Moduls\G13_5_6_Modul\Projects\src\5_2_dars_leetcode\obj\Debug\net8.0\5_2_dars_leetcode.pdb
+D:\Work\Groups\G_13\Moduls\G13_5_6_Modul\Projects\src\5_2_dars_leetcode\obj\Debug\net8.0\5_2_dars_leetcode.genruntimeconfig.cache
+D:\Work\Groups\G_13\Moduls\G13_5_6_Modul\Projects\src\5_2_dars_leetcode\obj\Debug\net8.0\ref\5_2_dars_leetcode.dll
