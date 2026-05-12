@@ -1,0 +1,6 @@
+@_6_1_dars_ef_core_HostAddress = http://localhost:5282
+
+GET {{_6_1_dars_ef_core_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
