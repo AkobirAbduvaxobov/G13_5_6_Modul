@@ -50,8 +50,7 @@
               "RelativeToolTip": "src\\5.7_AdoNet\\Controllers\\EmployeesController.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAgwB8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-25T11:16:37.071Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-25T11:16:37.071Z"
             },
             {
               "$type": "Document",
@@ -63,8 +62,7 @@
               "RelativeToolTip": "src\\5.7_AdoNet\\Services\\IEmployeeService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-25T11:13:20.678Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-25T11:13:20.678Z"
             },
             {
               "$type": "Document",
@@ -76,8 +74,7 @@
               "RelativeToolTip": "src\\5.7_AdoNet\\Services\\EmployeeService.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAswBgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-25T11:13:07.019Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-25T11:13:07.019Z"
             },
             {
               "$type": "Document",
@@ -89,8 +86,7 @@
               "RelativeToolTip": "src\\5.7_AdoNet\\Repositories\\IEmployeeRepository.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-25T10:36:13.985Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-25T10:36:13.985Z"
             },
             {
               "$type": "Document",
@@ -100,7 +96,7 @@
               "RelativeDocumentMoniker": "src\\5.7_AdoNet\\Repositories\\EmployeeRepository.cs",
               "ToolTip": "D:\\Work\\Groups\\G_13\\Moduls\\G13_5_6_Modul\\Projects\\src\\5.7_AdoNet\\Repositories\\EmployeeRepository.cs",
               "RelativeToolTip": "src\\5.7_AdoNet\\Repositories\\EmployeeRepository.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAQwE8AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAACJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-25T10:36:03.414Z",
               "EditorCaption": ""
@@ -115,8 +111,7 @@
               "RelativeToolTip": "src\\5.7_AdoNet\\Entities\\Employee.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-25T10:33:24.561Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-25T10:33:24.561Z"
             },
             {
               "$type": "Document",
@@ -128,8 +123,7 @@
               "RelativeToolTip": "src\\5_2_dars_leetcode\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T09:56:59.886Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-14T09:56:59.886Z"
             }
           ]
         }
