@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\6_2_dars.props" />
+</Project>
