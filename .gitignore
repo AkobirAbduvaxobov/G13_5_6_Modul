@@ -1,6 +1,7 @@
 # Ignore all bin/ and obj/ folders recursively
 **/[Bb]in/
 **/[Oo]bj/
+**/.vs/
 
 # Don't ignore solution or project files
 # (Remove these lines to keep them in Git)
